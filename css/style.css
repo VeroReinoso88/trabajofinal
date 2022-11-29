@@ -1,8 +1,3 @@
-* {
-    padding: 0;
-    margin: 0;
- 
-}
 
 .icono{
     background-color: white;
@@ -18,4 +13,31 @@
     padding: 20px;
     margin: 20px
 }
+h4 {
+    text-decoration: none;
+    text-align: center;
+}
+.contacto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.agendas2023{
 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.cuadernosrio {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
